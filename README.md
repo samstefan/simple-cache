@@ -14,11 +14,9 @@ npm install simple-memory-cache
 ```
 
 ### Options - `set()`
-```
 * `name` Required: The name of the cache item
 * `data` Required: The data that you want to cache
 * `clear` Optional: The amount of time you want to store the data in memory for in milliseconds, the default is forever.
-```
 
 ### Examples
 
