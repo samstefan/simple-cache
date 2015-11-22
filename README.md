@@ -1,7 +1,6 @@
 Simple Cache
 ---
-[![Build Status](https://travis-ci.org/samstefan/simple-cache.svg)](https://travis-ci.org/samstefan/simple-cache)
-
+[![Build Status](https://travis-ci.org/samstefan/simple-cache.svg)](https://travis-ci.org/samstefan/simple-cache) [![npm version](https://badge.fury.io/js/simple-memory-cache.svg)](https://badge.fury.io/js/simple-memory-cache)
 A simple in-memory cache store with optional expiry and no external dependencies.
 
 ### Requirements:
