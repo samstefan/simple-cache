@@ -1,0 +1,29 @@
+{
+  "name": "simple-memory-cache",
+  "version": "1.0.0",
+  "author": "Sam Stefan <hello@samstefan.co.uk>",
+  "description": "A simple caching module with expires and no external dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/_mocha --compilers js:babel-core/register -R spec -t 5000"
+  },
+  "bugs": {
+    "url": "https://github.com/samstefan/simple-cache/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samstefan/simple-cache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "homepage": "https://github.com/samstefan/simple-cache#readme",
+  "author": "Sam Stefan",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-preset-es2015": "^6.1.18",
+    "mocha": "^2.3.4",
+    "should": "^7.1.1"
+  }
+}
