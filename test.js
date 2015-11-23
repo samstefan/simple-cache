@@ -1,5 +1,5 @@
-import should from 'should';
-import Cache from './index'
+var should = require('should')
+var Cache = require('./index')
 
 describe('simple-cache', function() {
 

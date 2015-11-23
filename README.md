@@ -22,7 +22,7 @@ npm install simple-memory-cache
 
 #### Basic setting and getting data
 ```
-import Cache from 'simple-memory-cache'
+var Cache = require('simple-memory-cache')
 var cache = new Cache()
 
 var errors = cache.set({ name: 'myCache', data: { people: ['Sam', 'Dom'] }})

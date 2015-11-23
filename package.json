@@ -1,6 +1,6 @@
 {
   "name": "simple-memory-cache",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Sam Stefan <hello@samstefan.co.uk>",
   "description": "A simple caching module with expires and no external dependencies",
   "main": "index.js",

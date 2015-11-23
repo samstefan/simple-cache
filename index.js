@@ -22,7 +22,7 @@ const errors =
  * @return: {Object} the public methods to setting/getting cache
  */
 
-export default function simpleCache() {
+module.exports = function simpleCache() {
   // The cache store
   var cache = {}
 
